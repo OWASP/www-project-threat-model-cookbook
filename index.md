@@ -7,8 +7,8 @@ level: 0
 type: documentation
 
 ---
-![GitHub stars](https://img.shields.io/github/stars/OWASP/threat-model-cookbook?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/OWASP/threat-model-cookbook?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/OWASP/threat-model-cookbook?logo=github&style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/OWASP/threat-model-cookbook?logo=github&style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/OWASP/threat-model-cookbook?logo=github&style=social)
 
