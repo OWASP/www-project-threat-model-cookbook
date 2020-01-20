@@ -12,7 +12,7 @@ type: documentation
 ![GitHub repo size](https://img.shields.io/github/repo-size/OWASP/threat-model-cookbook?logo=github&style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/OWASP/threat-model-cookbook?logo=github&style=social)
 
-<img src="/assets/images/owasp_tmcb_logo.jpg" style="float: left; width: 30%; margin-right: 15px; margin-bottom: 15px;">
+<img src="assets/images/owasp_tmcb_logo.jpg" style="float: left; width: 30%; margin-right: 15px; margin-bottom: 15px;">
 
 This project is about creating and publishing threat model examples into our [GitHub repository](https://github.com/OWASP/threat-model-cookbook). They can be in the form of code, graphical or textual representations. The models will use diverse technologies, methodologies and techniques.
 
