@@ -1,7 +1,7 @@
 ### Leaders
 
 * [Jonathan Marcil](mailto:jonathan.marcil@owasp.org)
-* [Tash Norris](mailto:tash.norris@owasp.org )
+* [Tash Norris](mailto:tash.norris@owasp.org)
 
 ### Related Projects
 * [OWASP Threat Model Project](https://wiki.owasp.org/index.php/OWASP_Threat_Model_Project)
