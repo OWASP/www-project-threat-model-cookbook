@@ -1,11 +1,5 @@
-<!--### Project Information
-* Project Level
-* Project Type
-* Version, etc
+### Project Resources
 
-### Downloads or Social Links
-* [Download](#)
-* [Social Link](#)
-
-### Code Repository
-* [repo](#)-->
+* [GitHub Repository](https://github.com/OWASP/threat-model-cookbook)
+* [Twitter](https://twitter.com/OWASP_tmcb)
+* [Slack](https://owasp.slack.com/messages/threatmodel-cookbook/)
