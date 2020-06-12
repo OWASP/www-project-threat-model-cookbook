@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Threat Model Cookbook
 tags: threatmodeling
-level: 0
+level: 2
 type: documentation
 
 ---
