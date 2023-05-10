@@ -1,3 +1,5 @@
+This project has been archived. The content remains accessible for historical context.
+
 # OWASP Threat Model Cookbook Project Homepage
 This repo is the source for the web pages at https://owasp.org/www-project-threat-model-cookbook/.
 
